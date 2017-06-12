@@ -26,3 +26,12 @@ webpack
 With that you should see files in the wwwroot/dist folder.
 
 For more details, see [Steve Sanderson's original blog post](http://blog.stevensanderson.com/2016/10/04/angular2-template-for-visual-studio/) introducing the template pack. 
+
+
+
+
+install:
+
+npm install 
+//npm i -g webpack
+//npm i -g webpack-dev-server
